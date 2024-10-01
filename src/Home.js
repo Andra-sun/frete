@@ -7,7 +7,7 @@ import S5 from "./home/S5";
 
 const Home = () => {
     return (
-        <div className="container mx-auto px-4">
+        <div className="container">
             <S1 />
             <S2 />
             <S3 />
