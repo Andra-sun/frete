@@ -22,9 +22,11 @@ const S3 = () => {
 
                     <p className="text-xl font-bold text-gray-800 mb-4">R$ 50</p>
 
-                    <button className="bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition duration-300">
-                        Agendar
-                    </button>
+                    <a className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                    href="https://wa.me/5524999639446"
+                    >
+                    Agendar
+                    </a>
                 </div>
             </div>
         </div>
