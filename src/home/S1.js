@@ -2,7 +2,7 @@ function S1(){
     return (
         <div className="relative h-screen bg-cover bg-center">
         <div
-            className="absolute inset-0"
+            className="absolute inset-0 bg-cover"
             style={{
                 backgroundImage: `url('https://static.wixstatic.com/media/bdf21a_8c72ba5f8ce74c9fb9b66fbeb7bdba08~mv2.jpg/v1/fill/w_1280,h_692,al_c,q_85,enc_auto/bdf21a_8c72ba5f8ce74c9fb9b66fbeb7bdba08~mv2.jpg')`,
                 filter: "brightness(0.3)",
