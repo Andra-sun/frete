@@ -17,7 +17,7 @@ function S1(){
                 necessidades de transporte com segurança e cuidado.
             </p>
             <a
-                href="#veiculos"
+                href="https://wa.me/5524999639446"
                 className="mt-6 px-4 py-2 bg-white text-blue-600 rounded hover:bg-gray-200"
             >
                 Solicitar orçamento
